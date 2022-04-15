@@ -1,0 +1,11 @@
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.Models\bin\Debug\EstateManagement.Models.dll
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.Models\bin\Debug\EstateManagement.Models.pdb
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.Models\obj\Debug\EstateManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.Models\obj\Debug\EstateManagement.Models.dll
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.Models\obj\Debug\EstateManagement.Models.pdb
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.Models\bin\Debug\EstateManagement.Models.dll
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.Models\bin\Debug\EstateManagement.Models.pdb
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.Models\obj\Debug\EstateManagement.Models.csprojAssemblyReference.cache
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.Models\obj\Debug\EstateManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.Models\obj\Debug\EstateManagement.Models.dll
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.Models\obj\Debug\EstateManagement.Models.pdb

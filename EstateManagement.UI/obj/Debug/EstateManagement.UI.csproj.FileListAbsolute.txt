@@ -1,0 +1,63 @@
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.UI.exe.config
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.UI.exe
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.UI.pdb
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.Models.dll
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.Repository.dll
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.Models.pdb
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.Repository.pdb
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.csprojAssemblyReference.cache
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Form1.resources
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Properties.Resources.resources
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.csproj.GenerateResource.cache
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.csproj.CoreCompileInputs.cache
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.csproj.CopyComplete
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.exe
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.pdb
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.UI.exe.config
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.UI.exe
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.UI.pdb
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.Models.dll
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.Repository.dll
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.Models.pdb
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.Repository.pdb
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.csprojAssemblyReference.cache
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Form1.resources
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Properties.Resources.resources
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.csproj.GenerateResource.cache
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.csproj.CoreCompileInputs.cache
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.csproj.CopyComplete
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.exe
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.pdb
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Forms.AddOwner.resources
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Forms.AllOwners.resources
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Forms.Edit.resources
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Forms.FormAddEstate.resources
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Forms.AddPhotos.resources
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Forms.ViewEstate.resources
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Forms.AllEstates.resources
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Forms.EditEstate.resources
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Forms.ViewOwner.resources
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.UI.exe.config
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.UI.exe
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.UI.pdb
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.Models.dll
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.Repository.dll
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.Models.pdb
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\bin\Debug\EstateManagement.Repository.pdb
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.csproj.AssemblyReference.cache
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Forms.AddOwner.resources
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Forms.AddPhotos.resources
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Forms.AllEstates.resources
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Forms.AllOwners.resources
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Forms.Edit.resources
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Forms.EditEstate.resources
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Form1.resources
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Forms.FormAddEstate.resources
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Forms.ViewEstate.resources
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Forms.ViewOwner.resources
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.Properties.Resources.resources
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.csproj.GenerateResource.cache
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.csproj.CoreCompileInputs.cache
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.csproj.CopyComplete
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.exe
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.UI\obj\Debug\EstateManagement.UI.pdb

@@ -1,0 +1,27 @@
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.Repository\bin\Debug\EstateManagement.Repository.dll
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.Repository\bin\Debug\EstateManagement.Repository.pdb
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.Repository\bin\Debug\EstateManagement.Models.dll
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.Repository\bin\Debug\EstateManagement.Models.pdb
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.Repository\obj\Debug\EstateManagement.Repository.csprojAssemblyReference.cache
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.Repository\obj\Debug\EstateManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.Repository\obj\Debug\EstateManagement.Repository.csproj.CopyComplete
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.Repository\obj\Debug\EstateManagement.Repository.dll
+C:\Users\Ionut Dinca\source\repos\EstateManagement.Models\EstateManagement.Repository\obj\Debug\EstateManagement.Repository.pdb
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.Repository\obj\Debug\EstateManagement.Repository.csprojAssemblyReference.cache
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.Repository\obj\Debug\EstateManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.Repository\obj\Debug\EstateManagement.Repository.dll
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.Repository\obj\Debug\EstateManagement.Repository.pdb
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.Repository\bin\Debug\EstateManagement.Repository.dll
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.Repository\bin\Debug\EstateManagement.Repository.pdb
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.Repository\bin\Debug\EstateManagement.Models.dll
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.Repository\bin\Debug\EstateManagement.Models.pdb
+C:\Users\alini\Desktop\proiect\EstateManagement.Models\EstateManagement.Repository\obj\Debug\EstateManagement.Repository.csproj.CopyComplete
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.Repository\bin\Debug\EstateManagement.Repository.dll
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.Repository\bin\Debug\EstateManagement.Repository.pdb
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.Repository\bin\Debug\EstateManagement.Models.dll
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.Repository\bin\Debug\EstateManagement.Models.pdb
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.Repository\obj\Debug\EstateManagement.Repository.csproj.AssemblyReference.cache
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.Repository\obj\Debug\EstateManagement.Repository.csproj.CoreCompileInputs.cache
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.Repository\obj\Debug\EstateManagement.Repository.csproj.CopyComplete
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.Repository\obj\Debug\EstateManagement.Repository.dll
+D:\Proiecte c#\EstateManagement.Models\EstateManagement.Repository\obj\Debug\EstateManagement.Repository.pdb
